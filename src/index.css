@@ -1,13 +1,14 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.Clock-days , .Clock-hours , .Clock-minutes , .Clock-seconds {
+    margin: 10px;
+    display: inline;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.title {
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.Clock-main-div{
+    margin: 10px;
+    font-size: 20px;
 }
