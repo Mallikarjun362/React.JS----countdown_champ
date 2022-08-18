@@ -3,5 +3,5 @@
     npm install # to install the dependencies
     npm start # to run the app
 ```
-### Prroject look :
+### Project look :
 ![Web Application](./countdown_champ.v1.png "Web Application")
