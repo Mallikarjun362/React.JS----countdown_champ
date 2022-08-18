@@ -1,8 +1,8 @@
 import React  from "react";
 import  ReactDOM  from "react-dom";
 
-import App from './App';
-import Base from './Base';
+import App from './1_BasicApp/App'; // version 1 complete-app
+
 
 
 ReactDOM.render(

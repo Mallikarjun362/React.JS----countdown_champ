@@ -1,0 +1,37 @@
+.Clock-days , .Clock-hours , .Clock-minutes , .Clock-seconds {
+    margin: 10px;
+    display: inline;
+}
+
+.top-div{
+    margin-top: 100px;
+}
+
+.title {
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.Clock-main-div{
+    margin: 10px;
+    font-size: 40px;
+}
+
+.date-input-field {
+    width: 30%;
+    padding: 10px;
+    margin: 20px ;
+    border-width: 1px;
+    border-radius: 4px;
+    outline: none;
+}
+
+.date-submit-button{
+    padding: 10px;
+}
+
+.example-div > p{
+    color: grey;
+    padding: 0;
+    margin: 0;
+}
