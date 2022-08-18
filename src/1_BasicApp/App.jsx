@@ -44,7 +44,7 @@ class App extends Component {
                     </div>
                     <div className="example-div">
                         <p>Eg.</p>
-                        <br />
+                        <br/>
                         <p>June 3, 2023 8:00 AM</p>
                         <p>MM DD YYYY</p>
                         <p></p>
